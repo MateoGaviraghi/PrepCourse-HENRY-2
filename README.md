@@ -1,2 +1,2 @@
-# PrepCourse-HENRY-2
-ESTA ES UNA SEGUNDA PRUEBA DEL REPOSITORIO DEL MODULO 2 
+Mateo Gaviraghi 
+este proyecto es una prueba de como clonar el repositorio desde github a la compu 
